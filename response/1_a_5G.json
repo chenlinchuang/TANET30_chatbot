@@ -1,0 +1,221 @@
+{
+	"fulfillmentMessages":[
+		{
+			"payload":{
+
+				"line":{
+					"type":"flex",
+					"altText":"TANET傳送了訊息給你",
+					"contents":{
+    "type": "bubble",
+    "hero": {
+      "type": "image",
+      "url": "https://www.2cm.com.tw/2cm/img/cms/864/486/1/2020-03/202003271412569719774154.jpg",
+      "size": "full",
+      "aspectRatio": "20:13",
+      "aspectMode": "cover",
+      "action": {
+        "type": "uri",
+        "uri": "https://tanet2020.ntu.edu.tw/"
+      }
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "spacing": "md",
+      "contents": [
+        {
+          "type": "text",
+          "text": "5G網路通訊：5G與未來",
+          "wrap": true,
+          "weight": "bold",
+          "gravity": "center",
+          "size": "xl",
+          "align": "start"
+        },
+        {
+          "type": "box",
+          "layout": "baseline",
+          "margin": "md",
+          "contents": [
+            {
+              "type": "icon",
+              "size": "sm",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "icon",
+              "size": "sm",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "icon",
+              "size": "sm",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "icon",
+              "size": "sm",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "icon",
+              "size": "sm",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+            },
+            {
+              "type": "text",
+              "text": "5.0",
+              "size": "sm",
+              "color": "#999999",
+              "margin": "md"
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "lg",
+          "spacing": "sm",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "時間",
+                  "color": "#aaaaaa",
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "2020/9/26 (六), 12:00 pm",
+                  "wrap": true,
+                  "size": "sm",
+                  "color": "#666666"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "地點",
+                  "color": "#aaaaaa",
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "310會議室",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm"
+                }
+              ]
+            },
+            {
+              "type": "box",
+              "layout": "baseline",
+              "spacing": "sm",
+              "contents": [
+                {
+                  "type": "text",
+                  "text": "人數",
+                  "color": "#aaaaaa",
+                  "size": "sm"
+                },
+                {
+                  "type": "text",
+                  "text": "10位",
+                  "wrap": true,
+                  "color": "#666666",
+                  "size": "sm"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "vertical",
+          "margin": "xxl",
+          "contents": [
+            {
+              "type": "spacer"
+            },
+            {
+              "type": "image",
+              "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/linecorp_code_withborder.png",
+              "aspectMode": "cover",
+              "size": "xl"
+            },
+            {
+              "type": "text",
+              "text": "可使用上方QRCode登記參加，或登入平台",
+              "color": "#aaaaaa",
+              "wrap": true,
+              "margin": "xxl",
+              "size": "xs",
+              "align": "center"
+            },
+            {
+              "type": "separator",
+              "margin": "xl"
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "uri",
+                    "label": "到TANET互動平台",
+                    "uri": "https://tanet30.tp1rc.edu.tw/"
+                  },
+                  "style": "primary"
+                },
+                {
+                  "type": "button",
+                  "action": {
+                    "type": "message",
+                    "label": "聽其他相關主題",
+                    "text": "5G行動通訊與物聯網"
+                  }
+                }
+              ]
+            }
+          ],
+          "action": {
+            "type": "uri",
+            "label": "到TANET平台",
+            "uri": "https://tanet30.tp1rc.edu.tw/"
+          }
+        }
+      ]
+    }
+  }
+        },
+
+        "google":{
+          "expectUserResponse": true,
+          "richResponse": {
+            "items": [
+              {
+                "simpleResponse":{
+                  "textToSpeech": "5G 教室",
+                  "displayText": "5G 教室"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

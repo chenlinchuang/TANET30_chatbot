@@ -1,0 +1,281 @@
+{
+	"fulfillmentMessages":[
+		{
+			"payload":{
+				"line":{
+                        "type": "flex",
+                        "altText": "TANET傳送了訊息給你",
+                        "contents": 
+                          {
+                            "type": "carousel",
+                            "contents":[
+                                {
+                                    "type": "bubble",
+                                    "body": {
+                                      "type": "box",
+                                      "layout": "vertical",
+                                      "contents": [
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "5G網路通訊",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "position": "relative",
+                                                  "align": "center",
+                                                  "decoration": "none"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "5G創新服務及應用",
+                                                  "color": "#FFFFFF",
+                                                  "size": "xl",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#a8dadc",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "32px",
+                                          "paddingBottom": "32px",
+                                          "offsetTop": "0px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "5G網路通訊",
+                                            "text": "5G網路通訊"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "無線通訊網路",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "綠能通訊",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "量子通訊",
+                                                  "color": "#ffffff",
+                                                  "size": "xl",
+                                                  "align": "center",
+                                                  "weight": "bold"
+                                                }
+                                              ],
+                                              "position": "relative"
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#457b9d",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "22px",
+                                          "paddingBottom": "22px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "無線通訊網路",
+                                            "text": "無線通訊網路"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "多媒體網路",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "多媒體技術與訊號處理",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#1d3557",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "32px",
+                                          "paddingBottom": "32px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "多媒體網路",
+                                            "text": "多媒體網路"
+                                          }
+                                        }
+                                      ],
+                                      "paddingAll": "0px",
+                                      "position": "relative"
+                                    }
+                                  },
+                          {"type": "bubble",
+                            "body": {
+                              "type": "box",
+                              "layout": "vertical",
+                              "contents": [
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "box",
+                                      "layout": "vertical",
+                                      "contents": [
+                                        {
+                                          "type": "text",
+                                          "text": "物聯網",
+                                          "size": "xl",
+                                          "color": "#ffffff",
+                                          "weight": "bold",
+                                          "align": "center"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "車載網路",
+                                          "size": "xl",
+                                          "color": "#ffffff",
+                                          "weight": "bold",
+                                          "align": "center"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "人工智慧物聯網 (AIoT)",
+                                          "color": "#ffffff",
+                                          "size": "xl",
+                                          "align": "center",
+                                          "weight": "bold"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "技術與應用",
+                                            "color": "#ffffff",
+                                            "size": "xl",
+                                            "align": "center",
+                                            "weight": "bold"
+                                        }
+                                        
+                                      ],
+                                      "position": "relative"
+                                    }
+                                  ],
+                                  "position": "relative",
+                                  "offsetBottom": "0px",
+                                  "offsetStart": "0px",
+                                  "offsetEnd": "0px",
+                                  "backgroundColor": "#ffa69e",
+                                  "paddingAll": "0px",
+                                  "paddingTop": "32px",
+                                  "paddingBottom": "32px",
+                                  "action": {
+                                    "type": "message",
+                                    "label": "物聯網",
+                                    "text": "物聯網"
+                                    }
+                                },
+                                {
+                                  "type": "box",
+                                  "layout": "vertical",
+                                  "contents": [
+                                    {
+                                      "type": "box",
+                                      "layout": "vertical",
+                                      "contents": [
+                                        {
+                                          "type": "text",
+                                          "text": "雲端運算",
+                                          "size": "xl",
+                                          "color": "#ffffff",
+                                          "weight": "bold",
+                                          "align": "center"
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": "邊緣運算",
+                                          "size": "xl",
+                                          "color": "#ffffff",
+                                          "weight": "bold",
+                                          "align": "center"
+                                        },
+                                        {
+                                            "type": "text",
+                                            "text": "雲霧整合運算",
+                                            "size": "xl",
+                                            "color": "#ffffff",
+                                            "weight": "bold",
+                                            "align": "center"
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "position": "relative",
+                                  "offsetBottom": "0px",
+                                  "offsetStart": "0px",
+                                  "offsetEnd": "0px",
+                                  "backgroundColor": "#ff686b",
+                                  "paddingAll": "0px",
+                                  "paddingTop": "55px",
+                                  "paddingBottom": "55px",
+                                  "action": {
+                                    "type": "message",
+                                    "label": "雲端運算",
+                                    "text": "雲端運算"
+                                    }
+                                }
+                              ],
+                              "paddingAll": "0px",
+                              "position": "relative"
+                            }
+                          }
+                            ]
+                        }
+    }}
+		}
+	]
+}

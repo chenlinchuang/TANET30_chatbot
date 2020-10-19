@@ -1,0 +1,339 @@
+{
+	"fulfillmentMessages":[
+		{
+			"payload":{
+				"line":{
+                        "type": "flex",
+                        "altText": "TANET傳送了訊息給你",
+                        "contents": 
+                          {
+                            "type": "carousel",
+                            "contents":[
+                                {
+                                    "type": "bubble",
+                                    "body": {
+                                      "type": "box",
+                                      "layout": "vertical",
+                                      "contents": [
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "網路規劃建置",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "position": "relative",
+                                                  "align": "center",
+                                                  "decoration": "none"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "網路營運管理",
+                                                  "color": "#FFFFFF",
+                                                  "size": "xl",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "校園智慧網管",
+                                                    "color": "#FFFFFF",
+                                                    "size": "xl",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#a8dadc",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "10px",
+                                          "paddingBottom": "10px",
+                                          "offsetTop": "0px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "網路規劃建置",
+                                            "text": "網路規劃建置"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "校園骨幹/高速網路技術",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "網際網路技術",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                }
+                                              ],
+                                              "position": "relative"
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#457b9d",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "20px",
+                                          "paddingBottom": "20px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "校園骨幹/高速網路技術",
+                                            "text": "校園骨幹/高速網路技術"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "軟體定義網路",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "網路功能虛擬化",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#1d3557",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "20px",
+                                          "paddingBottom": "20px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "軟體定義網路",
+                                            "text": "軟體定義網路"
+                                          }
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                              {
+                                                "type": "box",
+                                                "layout": "vertical",
+                                                "contents": [
+                                                  {
+                                                    "type": "text",
+                                                    "text": "雲端技術應用及服務",
+                                                    "size": "xl",
+                                                    "color": "#ffffff",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                  },
+                                                  {
+                                                    "type": "text",
+                                                    "text": "行動與普及運算",
+                                                    "size": "xl",
+                                                    "color": "#ffffff",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                  }
+                                                ]
+                                              }
+                                            ],
+                                            "position": "relative",
+                                            "offsetBottom": "0px",
+                                            "offsetStart": "0px",
+                                            "offsetEnd": "0px",
+                                            "backgroundColor": "#00E3E3",
+                                            "paddingAll": "0px",
+                                            "paddingTop": "20px",
+                                            "paddingBottom": "20px",
+                                            "action": {
+                                              "type": "message",
+                                              "label": "雲端技術應用及服務",
+                                              "text": "雲端技術應用及服務"
+                                            }
+                                          }
+                                      ],
+                                      "paddingAll": "0px",
+                                      "position": "relative"
+                                    }
+                                },
+                                {
+                                    "type": "bubble",
+                                    "body": {
+                                    "type": "box",
+                                    "layout": "vertical",
+                                    "contents": [
+                                        {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                "type": "text",
+                                                "text": "網路科學",
+                                                "size": "xl",
+                                                "color": "#ffffff",
+                                                "weight": "bold",
+                                                "align": "center"
+                                                },
+                                                {
+                                                "type": "text",
+                                                "text": "社群網路",
+                                                "size": "xl",
+                                                "color": "#ffffff",
+                                                "weight": "bold",
+                                                "align": "center"
+                                                }
+                                            ],
+                                            "position": "relative"
+                                            }
+                                        ],
+                                        "position": "relative",
+                                        "offsetBottom": "0px",
+                                        "offsetStart": "0px",
+                                        "offsetEnd": "0px",
+                                        "backgroundColor": "#ffa69e",
+                                        "paddingAll": "0px",
+                                        "paddingTop": "32px",
+                                        "paddingBottom": "32px",
+                                        "action": {
+                                            "type": "message",
+                                            "label": "網路科學",
+                                            "text": "網路科學"
+                                            }
+                                        },
+                                        {
+                                        "type": "box",
+                                        "layout": "vertical",
+                                        "contents": [
+                                            {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                                {
+                                                "type": "text",
+                                                "text": "智慧醫療資訊應用",
+                                                "size": "xl",
+                                                "color": "#ffffff",
+                                                "weight": "bold",
+                                                "align": "center"
+                                                }
+                                            ]
+                                            }
+                                        ],
+                                        "position": "relative",
+                                        "offsetBottom": "0px",
+                                        "offsetStart": "0px",
+                                        "offsetEnd": "0px",
+                                        "backgroundColor": "#ff686b",
+                                        "paddingAll": "0px",
+                                        "paddingTop": "45px",
+                                        "paddingBottom": "45px",
+                                        "action": {
+                                            "type": "message",
+                                            "label": "智慧醫療資訊應用",
+                                            "text": "智慧醫療資訊應用"
+                                            }
+                                        },
+                                        {
+                                            "type": "box",
+                                            "layout": "vertical",
+                                            "contents": [
+                                            {
+                                                "type": "box",
+                                                "layout": "vertical",
+                                                "contents": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "電子商務",
+                                                    "size": "xl",
+                                                    "color": "#ffffff",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "區塊鏈",
+                                                    "size": "xl",
+                                                    "color": "#ffffff",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "金融科技",
+                                                    "size": "xl",
+                                                    "color": "#ffffff",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                }
+                                                ]
+                                            }
+                                            ],
+                                            "position": "relative",
+                                            "offsetBottom": "0px",
+                                            "offsetStart": "0px",
+                                            "offsetEnd": "0px",
+                                            "backgroundColor": "#EA7500",
+                                            "paddingAll": "0px",
+                                            "paddingTop": "32px",
+                                            "paddingBottom": "32px",
+                                            "action": {
+                                            "type": "message",
+                                            "label": "電子商務",
+                                            "text": "電子商務"
+                                            }
+                                        }
+                                    ],
+                                    "paddingAll": "0px",
+                                    "position": "relative"
+                                    }
+                                }
+                            ]
+                        }
+    }}
+		}
+	]
+}

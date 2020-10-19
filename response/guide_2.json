@@ -1,0 +1,187 @@
+{
+	"fulfillmentMessages":[
+		{
+			"payload":{
+				"line":{
+                        "type": "flex",
+                        "altText": "TANET傳送了訊息給你",
+                        "contents": 
+                          {
+                            "type": "carousel",
+                            "contents":[
+                                {
+                                    "type": "bubble",
+                                    "body": {
+                                      "type": "box",
+                                      "layout": "vertical",
+                                      "contents": [
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "大數據應用及分析",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "position": "relative",
+                                                  "align": "center",
+                                                  "decoration": "none"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "巨量資料處理",
+                                                  "color": "#FFFFFF",
+                                                  "size": "xl",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                    "type": "text",
+                                                    "text": "資料探勘",
+                                                    "color": "#FFFFFF",
+                                                    "size": "xl",
+                                                    "weight": "bold",
+                                                    "align": "center"
+                                                  }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#a8dadc",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "22px",
+                                          "paddingBottom": "22px",
+                                          "offsetTop": "0px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "大數據應用及分析",
+                                            "text": "大數據應用及分析"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "人工智慧與應用",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "機器學習",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "深度學習",
+                                                  "color": "#ffffff",
+                                                  "size": "xl",
+                                                  "align": "center",
+                                                  "weight": "bold"
+                                                }
+                                              ],
+                                              "position": "relative"
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#457b9d",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "22px",
+                                          "paddingBottom": "22px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "人工智慧與應用",
+                                            "text": "人工智慧與應用"
+                                          }
+                                        },
+                                        {
+                                          "type": "box",
+                                          "layout": "vertical",
+                                          "contents": [
+                                            {
+                                              "type": "box",
+                                              "layout": "vertical",
+                                              "contents": [
+                                                {
+                                                  "type": "text",
+                                                  "text": "智慧校園",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "智慧城市",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "智慧家庭",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                },
+                                                {
+                                                  "type": "text",
+                                                  "text": "智慧行動生活科技",
+                                                  "size": "xl",
+                                                  "color": "#ffffff",
+                                                  "weight": "bold",
+                                                  "align": "center"
+                                                }
+                                              ]
+                                            }
+                                          ],
+                                          "position": "relative",
+                                          "offsetBottom": "0px",
+                                          "offsetStart": "0px",
+                                          "offsetEnd": "0px",
+                                          "backgroundColor": "#1d3557",
+                                          "paddingAll": "0px",
+                                          "paddingTop": "12px",
+                                          "paddingBottom": "12px",
+                                          "action": {
+                                            "type": "message",
+                                            "label": "智慧校園",
+                                            "text": "智慧校園"
+                                          }
+                                        }
+                                      ],
+                                      "paddingAll": "0px",
+                                      "position": "relative"
+                                    }
+                                  }
+                            ]
+                        }
+    }}
+		}
+	]
+}
