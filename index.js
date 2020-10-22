@@ -4,12 +4,14 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const { time } = require('console');
 var app = express();
+const http = require('http').Server(app);
+
 var sensor_data;
 
 app.use(bodyParser.json());
 
 app.get('/', function (req, res) {
-  res.send('Hello World!')
+  res.send('This is line chatbot app listening...')
 })
 
 app.post('/sensor', async(req, res) => {
@@ -47,7 +49,7 @@ app.post('/chatbot', async(req, res) => {
     }
 })
 
-app.listen(3001, function () {
+http.listen(3001, () => {
   console.log('Chatbot app listening on port 3001!')
 })
 
