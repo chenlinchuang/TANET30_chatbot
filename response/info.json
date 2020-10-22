@@ -20,7 +20,7 @@
                 },
                 {
                   "type": "text",
-                  "text": "310會議室",
+                  "text": "主會場(310會議室)",
                   "weight": "bold",
                   "size": "xxl",
                   "margin": "md"
@@ -196,8 +196,8 @@
                       "style": "primary",
                       "action": {
                         "type": "message",
-                        "label": "查看更多環境資訊",
-                        "text": "查看更多環境資訊"
+                        "label": "查看其他地點",
+                        "text": "查看其他地點"
                       }
                     }
                   ]

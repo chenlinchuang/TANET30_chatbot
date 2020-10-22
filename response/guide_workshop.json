@@ -1,0 +1,299 @@
+{
+  "fulfillmentMessages":[
+      {
+          "payload":{
+              "line":{
+                  "type":"flex",
+                  "altText":"TANET傳送了訊息給你",
+                  "contents":{
+                      "type":"bubble",
+                      "header":{
+                          "type":"box",
+                          "layout":"vertical",
+                          "contents":[
+                              {
+                                  "type":"text",
+                                  "text":"以下是舉辦工作坊的廠商"
+                              }
+                          ]
+                      },
+                      "footer":{
+                          "type":"box",
+                          "layout":"vertical",
+                          "spacing":"md",
+                          "contents":[
+                              {
+                                  "type":"box",
+                                  "layout":"horizontal",
+                                  "contents":[
+                                      {
+                                          "type": "image",
+                                          "url": "https://i.imgur.com/nOsg5GF.png",
+                                          "size": "xs",
+                                          "action": {
+                                            "type":"message",
+                                            "label":"F5",
+                                            "text":"F5"
+                                        }
+                                         
+                                      },
+                                      {
+                                        "type": "separator"
+                                      },
+                                      {
+                                        "type": "image",
+                                        "url": "https://i.imgur.com/yGWRyPn.png",
+                                        "size": "xs",
+                                        "action": {
+                                            "type":"message",
+                                            "label":"Infoblox",
+                                            "text":"Infoblox"
+                                        }
+                                      },
+                                      {
+                                      "type": "separator"
+                                      },
+                                      {
+                                        "type": "image",
+                                        "url": "https://i.imgur.com/YrlRjfq.png",
+                                        "size": "xs",
+                                        "action": {
+                                            "type":"message",
+                                            "label":"國網中心",
+                                            "text":"國網中心"
+                                        }
+                                      }                                    
+                                  ]
+                              },
+                              {
+                                "type":"box",
+                                "layout":"horizontal",
+                                "contents":[
+                                    {
+                                        "type": "text",
+                                        "text": "F5",
+                                        "align": "center"
+                                    },
+                                    {
+                                      "type": "separator"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "Infoblox",
+                                        "align": "center"
+                                    },
+                                    {
+                                    "type": "separator"
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "國網中心",
+                                        "align": "center"
+                                    }                                 
+                                ]
+                            },
+                            {
+                                "type": "separator"
+                            },
+                            {
+                                "type":"box",
+                                "layout":"horizontal",
+                                "contents":[
+                                    {
+                                        "type": "image",
+                                        "url": "https://i.imgur.com/CmN2FlP.png",
+                                        "size": "xs",
+                                        "action": {
+                                            "type":"message",
+                                            "label":"NetApp",
+                                            "text":"NetApp"
+                                        }
+                                    },
+                                    {
+                                      "type": "separator"
+                                    },
+                                    {
+                                      "type": "image",
+                                      "url": "https://i.imgur.com/EUueqbO.png",
+                                      "size": "xs",
+                                      "action": {
+                                        "type":"message",
+                                        "label":"奧義智慧",
+                                        "text":"奧義智慧"
+                                    }
+                                    },
+                                    {
+                                    "type": "separator"
+                                    },
+                                    {
+                                      "type": "image",
+                                      "url": "https://i.imgur.com/wcdz6Dy.png",
+                                      "size": "xs",
+                                      "action": {
+                                        "type":"message",
+                                        "label":"Palo Alto",
+                                        "text":"Palo Alto"
+                                    }
+                                    }                                    
+                                ]
+                            },
+                            {
+                              "type":"box",
+                              "layout":"horizontal",
+                              "contents":[
+                                  {
+                                      "type": "text",
+                                      "text": "NetApp",
+                                      "align": "center"
+                                  },
+                                  {
+                                    "type": "separator"
+                                  },
+                                  {
+                                      "type": "text",
+                                      "text": "奧義智慧",
+                                      "align": "center"
+                                  },
+                                  {
+                                  "type": "separator"
+                                  },
+                                  {
+                                      "type": "text",
+                                      "text": "Palo Alto",
+                                      "align": "center"
+                                  }                                 
+                              ]
+                          },
+                          {
+                              "type":"separator"
+                          },
+                          {
+                            "type":"box",
+                            "layout":"horizontal",
+                            "contents":[
+                                {
+                                    "type": "image",
+                                    "url": "https://i.imgur.com/L5Cy8Gp.png",
+                                    "size": "xs",
+                                    "action": {
+                                        "type":"message",
+                                        "label":"Radware",
+                                        "text":"Radware"
+                                    }
+                                },
+                                {
+                                  "type": "separator"
+                                },
+                                {
+                                  "type": "image",
+                                  "url": "https://i.imgur.com/MQZmbTN.png",
+                                  "size": "xs",
+                                  "action": {
+                                    "type":"message",
+                                    "label":"趨勢科技",
+                                    "text":"趨勢科技"
+                                }
+                                },
+                                {
+                                "type": "separator"
+                                },
+                                {
+                                  "type": "image",
+                                  "url": "https://i.imgur.com/JtUpIA9.png",
+                                  "size": "xs",
+                                  "action": {
+                                    "type":"message",
+                                    "label":"TWNIC",
+                                    "text":"TWNIC"
+                                }
+                                }                                    
+                            ]
+                        },
+                        {
+                          "type":"box",
+                          "layout":"horizontal",
+                          "contents":[
+                              {
+                                  "type": "text",
+                                  "text": "Radware",
+                                  "align": "center"
+                              },
+                              {
+                                "type": "separator"
+                              },
+                              {
+                                  "type": "text",
+                                  "text": "趨勢科技",
+                                  "align": "center"
+                              },
+                              {
+                              "type": "separator"
+                              },
+                              {
+                                  "type": "text",
+                                  "text": "TWNIC",
+                                  "align": "center"
+                              }                                 
+                          ]
+                      },
+                      {
+                          "type": "separator"
+                      },
+                      {
+                        "type":"box",
+                        "layout":"horizontal",
+                        "contents":[
+                            {
+                                "type": "image",
+                                "url": "https://i.imgur.com/vx20mJa.png",
+                                "size": "xs",
+                                "action": {
+                                    "type":"message",
+                                    "label":"Cisco",
+                                    "text":"Cisco"
+                                }
+                            },
+                            {
+                              "type": "separator"
+                            },
+                            {
+                              "type": "image",
+                              "url": "https://i.imgur.com/UsKJJiw.png",
+                              "size": "xs",
+                              "action": {
+                                "type":"message",
+                                "label":"Juniper",
+                                "text":"Juniper"
+                            }
+                            }
+                        ]
+                    },
+                    {
+                      "type":"box",
+                      "layout":"horizontal",
+                      "contents":[
+                          {
+                              "type": "text",
+                              "text": "Cisco",
+                              "align": "center"
+                          },
+                          {
+                            "type": "separator"
+                          },
+                          {
+                              "type": "text",
+                              "text": "Juniper",
+                              "align": "center"
+                          }                                
+                      ]
+                  }
+                          ],
+                          "paddingAll":"0px",
+                          "position":"relative"
+                      }
+                  }
+              }
+          }
+      }
+  ]
+}

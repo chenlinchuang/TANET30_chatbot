@@ -48,10 +48,9 @@
 											"height":"sm",
 											"action":{
 												"type":"message",
-												"label":"會議室1資訊",
-												"text":"會議室1資訊"
-											},
-											"offsetBottom": "3px"
+												"label":"226會議室",
+												"text":"226會議室"
+											}
 										},
 										{
 											"type":"button",
@@ -59,42 +58,119 @@
 											"height":"sm",
 											"action":{
 												"type":"message",
-												"label":"會議室2資訊",
-												"text":"會議室2資訊"
+												"label":"227會議室",
+												"text":"227會議室"
 											}
 										}
 									]
 								},
-
 								{
-									"type":"button",
-									"style":"link",
-									"height":"sm",
-									"action":{
-										"type":"message",
-										"label":"小會議室1資訊",
-										"text":"小會議室1資訊"
-									}
+									"type":"box",
+									"layout":"horizontal",
+									"spacing":"sm",
+									"contents":[
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"247會議室",
+												"text":"247會議室"
+											}
+										},
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"248會議室",
+												"text":"248會議室"
+											}
+										}
+									]
 								},
 								{
-									"type":"button",
-									"style":"link",
-									"height":"sm",
-									"action":{
-										"type":"message",
-										"label":"小會議室2資訊",
-										"text":"小會議室2資訊"
-									}
+									"type":"box",
+									"layout":"horizontal",
+									"spacing":"sm",
+									"contents":[
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"318會議室",
+												"text":"318會議室"
+											}
+										},
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"326會議室",
+												"text":"326會議室"
+											}
+										}
+									]
 								},
 								{
-									"type":"button",
-									"style":"link",
-									"height":"sm",
-									"action":{
-										"type":"message",
-										"label":"小會議室3資訊",
-										"text":"小會議室3資訊"
-									}
+									"type":"box",
+									"layout":"horizontal",
+									"spacing":"sm",
+									"contents":[
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"328會議室",
+												"text":"328會議室"
+											}
+										},
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"329會議室",
+												"text":"329會議室"
+											}
+										}
+									]
+								},
+								{
+									"type":"box",
+									"layout":"horizontal",
+									"spacing":"sm",
+									"contents":[
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"338會議室",
+												"text":"338會議室"
+											}
+										},
+										{
+											"type":"button",
+											"style":"secondary",
+											"height":"sm",
+											"action":{
+												"type":"message",
+												"label":"342會議室",
+												"text":"342會議室"
+											}
+										}
+									]
 								}
 							]
 						}

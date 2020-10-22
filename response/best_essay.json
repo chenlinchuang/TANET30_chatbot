@@ -3,34 +3,9 @@
 		{
 			"payload":{
 				"line":{
-					"template":{
-						"imageAspectRatio":"rectangle",
-						"title":"當前最佳論文top 3",
-						"text":"webhook test",
-						"defaultAction":{
-							"type":"uri",
-							"uri":"https://tanet30.tp1rc.edu.tw/",
-							"label":"現在就去投票!"
-						},
-						"thumbnailImageUrl":"https://i.imgur.com/W8x5h0x.png",
-						"actions":[
-							{
-								"label":"更多排名資訊",
-								"data":"https://tanet30.tp1rc.edu.tw/",
-								"type":"postback"
-							},
-							{
-								"type":"uri",
-								"label":"現在就去投票!",
-								"uri":"https://tanet30.tp1rc.edu.tw/"
-							}
-						],
-						"type":"buttons",
-						"imageSize":"cover",
-						"imageBackgroundColor":"#FFFFFF"
-					},
-					"type":"template",
-					"altText":"Click_for_essay"
+					"type":"text",
+					"text":"論文發表完整議程尚未出爐！"
+
 				}
 			}
 		}

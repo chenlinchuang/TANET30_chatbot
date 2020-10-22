@@ -1,0 +1,32 @@
+{
+  "line": {
+    "type": "template",
+    "template": {
+      "text": "1.XXX: 120票 \n2.ABC: 100票 \n3.DEF: 80票",
+      "type": "buttons",
+      "thumbnailImageUrl": "https://i.imgur.com/W8x5h0x.png",
+      "defaultAction": {
+        "uri": "https://tanet30.tp1rc.edu.tw/",
+        "label": "現在就去投票!",
+        "type": "uri"
+      },
+      "imageSize": "cover",
+      "imageAspectRatio": "rectangle",
+      "imageBackgroundColor": "#FFFFFF",
+      "actions": [
+        {
+          "label": "更多排名資訊",
+          "type": "postback",
+          "data": "https://tanet30.tp1rc.edu.tw/"
+        },
+        {
+          "uri": "https://tanet30.tp1rc.edu.tw/",
+          "label": "現在就去投票!",
+          "type": "uri"
+        }
+      ],
+      "title": "當前最佳論文top 3"
+    },
+    "altText": "Click_for_essay"
+  }
+}
