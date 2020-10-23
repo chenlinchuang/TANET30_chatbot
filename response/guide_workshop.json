@@ -286,7 +286,16 @@
                               "align": "center"
                           }                                
                       ]
-                  }
+                  },
+                  {
+                    "type":"text",
+                    "text":"可點擊廠商Logo，獲得場次資訊！",
+                    "color":"#aaaaaa",
+                    "wrap":true,
+                    "margin":"xxl",
+                    "size":"xs",
+                    "align":"center"
+                }
                           ],
                           "paddingAll":"0px",
                           "position":"relative"

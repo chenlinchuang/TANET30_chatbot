@@ -106,7 +106,7 @@ function getResponse(intent, time_data, sensor_data = {}, room_num = 0, company)
                             },
                             {
                               "type": "text",
-                              "text": "310會議室",
+                              "text": "310會議室(主)",
                               "weight": "bold",
                               "size": "xxl",
                               "margin": "md"

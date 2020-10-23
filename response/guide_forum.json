@@ -13,7 +13,7 @@
                                 "type":"bubble",
                                 "hero": {
                                     "type": "image",
-                                    "url": "https://tanet2020.ntu.edu.tw/images/banner.png",
+                                    "url": "https://tanet2020.ntu.edu.tw/images/banner30.png",
                                     "size": "full",
                                     "aspectRatio":"4:1",
                                     "aspectMode": "cover",
@@ -29,7 +29,7 @@
                                     "contents":[
                                         {
                                             "type":"text",
-                                            "text":"5G商業應用與資安挑戰",
+                                            "text":"TANet 30回顧與展望",
                                             "wrap":true,
                                             "weight":"bold",
                                             "gravity":"center",
@@ -59,7 +59,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"2020/10/29 (四), 11:20 ~ 12:10 a.m",
+                                                            "text":"2020/10/28 (四), 11:10 ~ 11:50 a.m",
                                                             "wrap":true,
                                                             "size":"sm",
                                                             "color":"#666666"
@@ -99,7 +99,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"周立德 / 中央大學主任秘書",
+                                                            "text":"郭伯臣 / 教育部資科司司長",
                                                             "wrap":true,
                                                             "color":"#666666",
                                                             "size":"sm"
@@ -113,13 +113,13 @@
                                                     "contents":[
                                                         {
                                                             "type":"text",
-                                                            "text":"主講人",
+                                                            "text":"與談人",
                                                             "color":"#aaaaaa",
                                                             "size":"sm"
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"康崇原 / 中華電信網路處副總經理",
+                                                            "text":"史曉斌 / 國家高速網路與計算中心 主任\n陳伶志 / 中央研究院資訊服務處 處長\n李蔡彥 / 國立政治大學資訊科學系 教授\n劉金和 / 前教育部電算中心 副主任\n莊育秀 / 國家衛生研究院資訊中心 主任",
                                                             "wrap":true,
                                                             "color":"#666666",
                                                             "size":"sm"
@@ -138,7 +138,7 @@
                                                 },
                                                 {
                                                     "type":"text",
-                                                    "text":"可登入平台後，至演講地點報到！",
+                                                    "text":"可登入平台(或使用ID卡)，至演講地點報到！",
                                                     "color":"#aaaaaa",
                                                     "wrap":true,
                                                     "margin":"xxl",
@@ -186,7 +186,7 @@
                                 "type":"bubble",
                                 "hero": {
                                     "type": "image",
-                                    "url": "https://tanet2020.ntu.edu.tw/images/banner.png",
+                                    "url": "https://tanet2020.ntu.edu.tw/images/banner30.png",
                                     "size": "full",
                                     "aspectRatio":"4:1",
                                     "aspectMode": "cover",
@@ -202,7 +202,7 @@
                                     "contents":[
                                         {
                                             "type":"text",
-                                            "text":"AIoT 時代 台灣機會",
+                                            "text":"臺灣學術網路論壇\n發展與未來",
                                             "wrap":true,
                                             "weight":"bold",
                                             "gravity":"center",
@@ -232,7 +232,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"2020/10/28 (三), 10:10 ~ 11:00 a.m",
+                                                            "text":"2020/10/29 (四), 1:10 ~ 2:00 p.m",
                                                             "wrap":true,
                                                             "size":"sm",
                                                             "color":"#666666"
@@ -252,7 +252,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"主會場",
+                                                            "text":"248會議室",
                                                             "wrap":true,
                                                             "color":"#666666",
                                                             "size":"sm"
@@ -272,7 +272,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"趙涵捷 / 東華大學校長",
+                                                            "text":"TBD",
                                                             "wrap":true,
                                                             "color":"#666666",
                                                             "size":"sm"
@@ -292,7 +292,7 @@
                                                         },
                                                         {
                                                             "type":"text",
-                                                            "text":"簡立峰博士 / 前Google臺灣董事總經理 / Appier獨立董事",
+                                                            "text":"TBD",
                                                             "wrap":true,
                                                             "color":"#666666",
                                                             "size":"sm"
@@ -311,7 +311,7 @@
                                                 },
                                                 {
                                                     "type":"text",
-                                                    "text":"可登入平台後，至演講地點報到！",
+                                                    "text":"可登入平台(或使用ID卡)，至演講地點報到！",
                                                     "color":"#aaaaaa",
                                                     "wrap":true,
                                                     "margin":"xxl",
@@ -359,7 +359,7 @@
                                 "type":"bubble",
                                 "hero": {
                                     "type": "image",
-                                    "url": "https://tanet2020.ntu.edu.tw/images/banner.png",
+                                    "url": "https://tanet2020.ntu.edu.tw/images/banner30.png",
                                     "size": "full",
                                     "aspectRatio":"4:1",
                                     "aspectMode": "cover",
@@ -371,277 +371,144 @@
                                 "body":{
                                     "type":"box",
                                     "layout":"vertical",
-                                    "spacing":"md",
+                                    "position":"relative",
+                                    "spacing":"xxl",
                                     "contents":[
                                         {
-                                            "type":"text",
-                                            "text":"Digital Transformation 2.0\nThe Future Enterprise",
-                                            "wrap":true,
-                                            "weight":"bold",
-                                            "gravity":"center",
-                                            "size":"xl",
-                                            "align":"center"
-                                        },
-                                        {
-                                            "type": "separator",
-                                            "margin": "xxl"
-                                        },
-                                        {
                                             "type":"box",
                                             "layout":"vertical",
-                                            "margin":"lg",
-                                            "spacing":"sm",
+                                            "spacing":"md",
                                             "contents":[
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"時間",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"2020/10/28 (三), 2:10 ~ 3:00 p.m",
-                                                            "wrap":true,
-                                                            "size":"sm",
-                                                            "color":"#666666"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"地點",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"主會場",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"主持人",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"鄭憲宗 / 國立成功大學教授",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"主講人",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"史曉斌 / 國家高速網路與計算中心 主任",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
-                                                        }
-                                                    ]
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "type":"box",
-                                            "layout":"vertical",
-                                            "margin":"xxl",
-                                            "contents":[
-                                                {
-                                                    "type":"spacer"
-                                                },
                                                 {
                                                     "type":"text",
-                                                    "text":"可登入平台後，至演講地點報到！",
-                                                    "color":"#aaaaaa",
+                                                    "text":"最佳論文評選會議",
                                                     "wrap":true,
-                                                    "margin":"xxl",
-                                                    "size":"xs",
-                                                    "align":"center"
+                                                    "weight":"bold",
+                                                    "gravity":"center",
+                                                    "size":"xl",
+                                                    "align":"start"
                                                 },
                                                 {
-                                                    "type":"separator",
-                                                    "margin":"xl"
+                                                    "type": "separator",
+                                                    "margin": "xxl"
                                                 },
                                                 {
                                                     "type":"box",
                                                     "layout":"vertical",
+                                                    "margin":"lg",
+                                                    "spacing":"sm",
                                                     "contents":[
                                                         {
-                                                            "type":"button",
-                                                            "action":{
-                                                                "type":"uri",
-                                                                "label":"到TANET互動平台",
-                                                                "uri":"https://tanet30.tp1rc.edu.tw/"
-                                                            },
-                                                            "style":"primary"
+                                                            "type":"box",
+                                                            "layout":"baseline",
+                                                            "spacing":"sm",
+                                                            "contents":[
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"時間",
+                                                                    "color":"#aaaaaa",
+                                                                    "size":"sm"
+                                                                },
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"2020/10/28 (三), 3:30 ~ 4:30 p.m",
+                                                                    "wrap":true,
+                                                                    "size":"sm",
+                                                                    "color":"#666666"
+                                                                }
+                                                            ]
                                                         },
                                                         {
-                                                            "type":"button",
-                                                            "action":{
-                                                                "type":"message",
-                                                                "label":"了解其他議程",
-                                                                "text":"議程"
-                                                            }
+                                                            "type":"box",
+                                                            "layout":"baseline",
+                                                            "spacing":"sm",
+                                                            "contents":[
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"地點",
+                                                                    "color":"#aaaaaa",
+                                                                    "size":"sm"
+                                                                },
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"226會議室",
+                                                                    "wrap":true,
+                                                                    "color":"#666666",
+                                                                    "size":"sm"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
-                                            ],
-                                            "action":{
-                                                "type":"uri",
-                                                "label":"到TANET平台",
-                                                "uri":"https://tanet30.tp1rc.edu.tw/"
-                                            }
-                                        }
-                                    ]
-                                }
-                            },
-                            {
-                                "type":"bubble",
-                                "hero": {
-                                    "type": "image",
-                                    "url": "https://tanet2020.ntu.edu.tw/images/banner.png",
-                                    "size": "full",
-                                    "aspectRatio":"4:1",
-                                    "aspectMode": "cover",
-                                    "action": {
-                                        "type": "uri",
-                                        "uri": "https://tanet2020.ntu.edu.tw/"
-                                    }
-                                },
-                                "body":{
-                                    "type":"box",
-                                    "layout":"vertical",
-                                    "spacing":"md",
-                                    "contents":[
-                                        {
-                                            "type":"text",
-                                            "text":"從AI到智慧醫療",
-                                            "wrap":true,
-                                            "weight":"bold",
-                                            "gravity":"center",
-                                            "size":"xl",
-                                            "align":"start"
+                                            ]
                                         },
                                         {
-                                            "type": "separator",
+                                            "type":"separator",
                                             "margin": "xxl"
                                         },
                                         {
                                             "type":"box",
                                             "layout":"vertical",
-                                            "margin":"lg",
-                                            "spacing":"sm",
+                                            "spacing":"md",
                                             "contents":[
                                                 {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"時間",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"2020/10/29 (四), 10:20 ~ 11:10 a.m",
-                                                            "wrap":true,
-                                                            "size":"sm",
-                                                            "color":"#666666"
-                                                        }
-                                                    ]
+                                                    "type":"text",
+                                                    "text":"前瞻2.0數位建設\n暨數位學習相關推動\n第2次研商會議",
+                                                    "wrap":true,
+                                                    "weight":"bold",
+                                                    "gravity":"center",
+                                                    "size":"xl",
+                                                    "align":"start"
+                                                },
+                                                {
+                                                    "type": "separator",
+                                                    "margin": "xxl"
                                                 },
                                                 {
                                                     "type":"box",
-                                                    "layout":"baseline",
+                                                    "layout":"vertical",
+                                                    "margin":"lg",
                                                     "spacing":"sm",
                                                     "contents":[
                                                         {
-                                                            "type":"text",
-                                                            "text":"地點",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
+                                                            "type":"box",
+                                                            "layout":"baseline",
+                                                            "spacing":"sm",
+                                                            "contents":[
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"時間",
+                                                                    "color":"#aaaaaa",
+                                                                    "size":"sm"
+                                                                },
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"2020/10/28 (三), 3:30 ~ 5:40 p.m",
+                                                                    "wrap":true,
+                                                                    "size":"sm",
+                                                                    "color":"#666666"
+                                                                }
+                                                            ]
                                                         },
                                                         {
-                                                            "type":"text",
-                                                            "text":"主會場",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"主持人",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"蔡錫鈞 / 國立交通大學資訊技術服務中心 主任",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "type":"box",
-                                                    "layout":"baseline",
-                                                    "spacing":"sm",
-                                                    "contents":[
-                                                        {
-                                                            "type":"text",
-                                                            "text":"主講人",
-                                                            "color":"#aaaaaa",
-                                                            "size":"sm"
-                                                        },
-                                                        {
-                                                            "type":"text",
-                                                            "text":"蔣榮先教授 / 成大醫院健康數據中心執行長",
-                                                            "wrap":true,
-                                                            "color":"#666666",
-                                                            "size":"sm"
+                                                            "type":"box",
+                                                            "layout":"baseline",
+                                                            "spacing":"sm",
+                                                            "contents":[
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"地點",
+                                                                    "color":"#aaaaaa",
+                                                                    "size":"sm"
+                                                                },
+                                                                {
+                                                                    "type":"text",
+                                                                    "text":"247會議室",
+                                                                    "wrap":true,
+                                                                    "color":"#666666",
+                                                                    "size":"sm"
+                                                                }
+                                                            ]
                                                         }
                                                     ]
                                                 }
@@ -657,7 +524,7 @@
                                                 },
                                                 {
                                                     "type":"text",
-                                                    "text":"可登入平台後，至演講地點報到！",
+                                                    "text":"可登入平台(或使用ID卡)，至演講地點報到！",
                                                     "color":"#aaaaaa",
                                                     "wrap":true,
                                                     "margin":"xxl",
