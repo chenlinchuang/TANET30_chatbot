@@ -299,19 +299,21 @@ function getResponse(intent, time_data, sensor_data = {}, room_num = 0, company)
                                 "items": [
                                   {
                                     "simpleResponse":{
-                                      "textToSpeech": "310會議室\n" + 
+                                      "textToSpeech": "以下是3 1 0會議室的環境數據：\n" + 
                                       "溫度:" + sensor_data["Temp"] + "度C\n" +
                                       "相對溼度:" + sensor_data["Hum"] + "%\n" +
                                       "氣壓" + sensor_data["P"] + "mmHg\n" +
                                       "CO2濃度" + sensor_data["CO2"] + "ppm\n" +
-                                      "tVOC(揮發性有機物)" +  sensor_data["tVOC"] + "ppb\n",
+                                      "tVOC(揮發性有機物)" +  sensor_data["tVOC"] + "ppb\n"+
+                                      "。若要查看其他地點，請說「查看更多環境資訊」",
 
                                       "displayText": "310會議室\n" + 
                                       "溫度: " + sensor_data["Temp"] + " 度C\n" +
                                       "相對溼度: " + sensor_data["Hum"] + " %\n" +
                                       "氣壓: " + sensor_data["P"] + " mmHg\n" +
                                       "CO2濃度: " + sensor_data["CO2"] + " ppm\n" +
-                                      "tVOC(揮發性有機物): " +  sensor_data["tVOC"] + " ppb\n"
+                                      "tVOC(揮發性有機物): " +  sensor_data["tVOC"] + " ppb\n" +
+                                      "。若要查看其他地點，請說「查看更多環境資訊」",
                                     }
                                   }
                                 ]

@@ -210,7 +210,20 @@
               }
             }
           }
-				}
+        },
+        "google":{
+          "expectUserResponse":true,
+          "richResponse":{
+              "items":[
+                  {
+                      "simpleResponse":{
+                          "textToSpeech":"這是資訊",
+                          "displayText":"5G 教室"
+                      }
+                  }
+              ]
+          }
+        }
 			}
 		}
 	]
