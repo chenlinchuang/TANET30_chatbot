@@ -182,8 +182,8 @@
 						"items":[
 							{
 								"simpleResponse":{
-									"textToSpeech":"目前其他地點尚未收到感測器資訊",
-									"displayText":"目前其他地點尚未收到感測器資訊"
+									"textToSpeech":"Google Home不支援其他地點感測功能",
+									"displayText":"Google Home不支援其他地點感測功能"
 								}
 							}
 						]

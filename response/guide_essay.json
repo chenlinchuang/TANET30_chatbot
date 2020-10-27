@@ -1,13 +1,103 @@
 {
-	"fulfillmentMessages":[
-		{
-			"payload":{
-				"line":{
-					"type":"text",
-					"text":"論文發表完整議程尚未出爐！"
-
-				}
-			}
-		}
-	]
+    "fulfillmentMessages":[
+        {
+            "payload":{
+                "line":{
+                    "type":"flex",
+                    "altText":"TANET傳送了訊息給你",
+                    "contents":
+                    {
+                        "type":"carousel",
+                        "contents": [
+                            {
+                                "type":"bubble",
+                                "hero": {
+                                    "type": "image",
+                                    "url": "https://tanet2020.ntu.edu.tw/images/banner30.png",
+                                    "size": "full",
+                                    "aspectRatio":"4:1",
+                                    "aspectMode": "cover",
+                                    "action": {
+                                        "type": "uri",
+                                        "uri": "https://tanet2020.ntu.edu.tw/"
+                                    }
+                                },
+                                "body":{
+                                    "type":"box",
+                                    "layout":"vertical",
+                                    "contents":[
+                                        {
+                                            "type":"text",
+                                            "text":"論文發表場次及時段",
+                                            "wrap":true,
+                                            "weight":"bold",
+                                            "gravity":"center",
+                                            "size":"xl",
+                                            "align":"start"
+                                        },
+                                        {
+                                            "type": "separator",
+                                            "margin": "xxl"
+                                        },
+                                        {
+                                            "type":"box",
+                                            "layout":"vertical",
+                                            "contents":[
+                                                {
+                                                    "type":"text",
+                                                    "text":"由於論文眾多，請點擊下方按鈕到官網查詢！",
+                                                    "color":"#aaaaaa",
+                                                    "wrap":true,
+                                                    "margin":"xxl",
+                                                    "size":"xs",
+                                                    "align":"center"
+                                                },
+                                                {
+                                                    "type":"separator",
+                                                    "margin":"xl"
+                                                },
+                                                {
+                                                    "type":"box",
+                                                    "layout":"vertical",
+                                                    "contents":[
+                                                        {
+                                                            "type":"button",
+                                                            "action":{
+                                                                "type":"uri",
+                                                                "label":"到論文場次查詢網頁",
+                                                                "uri":"https://tanet2020.ntu.edu.tw/allAgendaTable.php"
+                                                            },
+                                                            "style":"primary"
+                                                        }
+                                                    ]
+                                                }
+                                            ],
+                                            "action":{
+                                                "type":"uri",
+                                                "label":"到TANET平台",
+                                                "uri":"https://tanet30.tp1rc.edu.tw/"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "google":{
+                    "expectUserResponse":true,
+                    "richResponse":{
+                        "items":[
+                            {
+                                "simpleResponse":{
+                                    "textToSpeech":"5G 教室",
+                                    "displayText":"5G 教室"
+                                }
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
 }
